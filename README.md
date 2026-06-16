@@ -78,6 +78,20 @@ Atuei no desenvolvimento **full-stack**, trabalhando com Python, banco de dados 
 
 🔗 [Ver repositório](https://github.com/ELOITHealth/EloITHealth)
 
+### 🛰️ Space Sense — Monitoramento Orbital Inteligente
+
+> Plataforma de monitoramento do ambiente orbital em tempo real, desenvolvida para agências e empresas do setor aeroespacial. O projeto aborda o risco crescente de congestionamento orbital e a **Síndrome de Kessler**.
+
+Atuei como responsável por **DevOps e banco de dados**, estruturando a infraestrutura que sustenta o monitoramento contínuo de satélites, detritos e cálculo de índices de risco.
+
+A plataforma oferece:
+
+- 📡 Monitoramento contínuo de satélites e detritos espaciais
+- ⚠️ Alertas automáticos por nível de risco (Baixo → Médio → Alto → Crítico)
+- 🔭 Identificação de órbitas congestionadas (LEO · MEO · GEO)
+- 📊 Relatórios gerenciais e análise histórica de incidentes
+- 🚀 Apoio à decisão para novos lançamentos de satélites
+
 ---
 
 ## 🎓 Formação
