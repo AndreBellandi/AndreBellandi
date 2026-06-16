@@ -100,7 +100,7 @@ A plataforma oferece:
 | Curso | Instituição | Período |
 |---|---|---|
 | Tecnologia em Análise e Desenvolvimento de Sistemas | FIAP | 2025 – cursando |
-| Adobe Illustrator & Photoshop | EPIC School | 2025 – cursando |
+| Adobe Illustrator & Photoshop | EPIC School | 2025 – 2026 |
 | Ensino Médio | Colégio Palavra Viva | 2021 – 2024 |
 | Design, 3D, Edição de Vídeo, Game Design | Escola Saga (Curso Start) | 2019 – 2021 |
 
