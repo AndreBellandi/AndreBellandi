@@ -94,6 +94,23 @@ A plataforma oferece:
 - 🚀 Apoio à decisão para novos lançamentos de satélites
 
 🔗 [SpaceSense (principal)](https://github.com/Vitor-Augusto-olv/SpaceSense) · [space-sense.net](https://github.com/C-A-V-Enterprise/space-sense.net) · [space-sense-devops](https://github.com/C-A-V-Enterprise/space-sense-devops)
+
+### 🤖 MentorIA — Aprenda IA Aplicada ao Trabalho
+
+> Plataforma educacional interativa que prepara profissionais de diversas áreas para utilizar Inteligência Artificial no dia a dia, por meio de trilhas personalizadas, módulos práticos e um chatbot inteligente.
+
+Atuei no desenvolvimento com **Python e banco de dados**, estruturando a camada de dados da plataforma.
+
+A plataforma oferece:
+
+- 👤 Registro e login com dashboard personalizado por profissão
+- 📚 Trilhas de aprendizado com módulos práticos
+- 🤖 Chatbot inteligente orientado por IA
+- 📈 Progresso salvo por usuário
+- ✅ Deploy funcional no Vercel (frontend) e Render (backend)
+
+🔗 [Repositório](https://github.com/ELOITHealth/MentorIA.GS) · [Ver deploy](https://mentoriags.vercel.app/)
+
 ---
 
 ## 🎓 Formação
