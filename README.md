@@ -55,6 +55,15 @@ Além da programação, tenho formação em **design e multimídia** (Adobe Illu
 
 ---
 
+## 🏢 Organizações
+
+| Organização | Link |
+|---|---|
+| C.A.V Enterprise | [@C-A-V-Enterprise](https://github.com/C-A-V-Enterprise) |
+| ELOITHealth | [@ELOITHealth](https://github.com/ELOITHealth) |
+
+---
+
 ## 🚀 Projetos em destaque
 
 ### 🏥 HC+10 — Jornada Digital Humanizada
