@@ -92,6 +92,7 @@ A plataforma oferece:
 - 📊 Relatórios gerenciais e análise histórica de incidentes
 - 🚀 Apoio à decisão para novos lançamentos de satélites
 
+🔗 [SpaceSense (principal)](https://github.com/Vitor-Augusto-olv/SpaceSense) · [space-sense.net](https://github.com/C-A-V-Enterprise/space-sense.net) · [space-sense-devops](https://github.com/C-A-V-Enterprise/space-sense-devops)
 ---
 
 ## 🎓 Formação
